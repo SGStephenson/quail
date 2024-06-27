@@ -1,0 +1,102 @@
+{
+  "1": {
+    "level": 1,
+    "experience points": 0,
+    "proficiency bonus": 2
+  },
+  "2": {
+    "level": 2,
+    "experience points": 300,
+    "proficiency bonus": 2
+  },
+  "3": {
+    "level": 3,
+    "experience points": 900,
+    "proficiency bonus": 2
+  },
+  "4": {
+    "level": 4,
+    "experience points": 2700,
+    "proficiency bonus": 2
+  },
+  "5": {
+    "level": 5,
+    "experience points": 6500,
+    "proficiency bonus": 3
+  },
+  "6": {
+    "level": 6,
+    "experience points": 14000,
+    "proficiency bonus": 3
+  },
+  "7": {
+    "level": 7,
+    "experience points": 23000,
+    "proficiency bonus": 3
+  },
+  "8": {
+    "level": 8,
+    "experience points": 34000,
+    "proficiency bonus": 3
+  },
+  "9": {
+    "level": 9,
+    "experience points": 48000,
+    "proficiency bonus": 4
+  },
+  "10": {
+    "level": 10,
+    "experience points": 64000,
+    "proficiency bonus": 4
+  },
+  "11": {
+    "level": 11,
+    "experience points": 85000,
+    "proficiency bonus": 4
+  },
+  "12": {
+    "level": 12,
+    "experience points": 100000,
+    "proficiency bonus": 4
+  },
+  "13": {
+    "level": 13,
+    "experience points": 120000,
+    "proficiency bonus": 5
+  },
+  "14": {
+    "level": 14,
+    "experience points": 140000,
+    "proficiency bonus": 5
+  },
+  "15": {
+    "level": 15,
+    "experience points": 165000,
+    "proficiency bonus": 5
+  },
+  "16": {
+    "level": 16,
+    "experience points": 195000,
+    "proficiency bonus": 5
+  },
+  "17": {
+    "level": 17,
+    "experience points": 225000,
+    "proficiency bonus": 6
+  },
+  "18": {
+    "level": 18,
+    "experience points": 265000,
+    "proficiency bonus": 6
+  },
+  "19": {
+    "level": 19,
+    "experience points": 305000,
+    "proficiency bonus": 6
+  },
+  "20": {
+    "level": 20,
+    "experience points": 355000,
+    "proficiency bonus": 6
+  }
+}

@@ -1,25 +1,31 @@
 {
-  "name": "project-quail",
-  "version": "1.0.0",
-  "description": "Game tools for D&D 5th edition",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/SGStephenson/quail.git"
-  },
-  "keywords": [
-    "dungeon",
-    "dragon",
-    "dm",
-    "tools"
-  ],
-  "author": "Stephen Stephenson",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SGStephenson/quail/issues"
-  },
-  "homepage": "https://github.com/SGStephenson/quail#readme"
+    "name": "project-quail",
+    "version": "1.0.0",
+    "description": "Game tools for D&D 5th edition",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/SGStephenson/quail.git"
+    },
+    "keywords": [
+        "dungeon",
+        "dragon",
+        "dm",
+        "tools"
+    ],
+    "author": "Stephen Stephenson",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SGStephenson/quail/issues"
+    },
+    "homepage": "https://github.com/SGStephenson/quail#readme",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "dependencies": {
+        "express": "^4.19.2"
+    }
 }

@@ -1,0 +1,16 @@
+# EditorConfig allows us to set default editor configurations. See https://EditorConfig.org for details.
+
+root = true
+
+[*]
+insert_final_newline = true
+charset = utf-8
+
+[{*.js,*.ts,*.tsx,*.jsx,*.json}]
+indent_style = space
+
+[*.json]
+indent_size = 2
+
+[{*.js,*.ts,*.tsx,*.jsx}]
+indent_size = 4
