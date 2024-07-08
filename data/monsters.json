@@ -1,0 +1,1142 @@
+[
+  {
+    "name": "Guthash",
+    "source": "Tales from the Yawning Portal",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Red-Banded Line Spider",
+    "source": "Tome of Beasts 1",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Shrieker",
+    "source": "Basic Rules",
+    "type": "Plant",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Myconid Sprout",
+    "source": "Monster Manual",
+    "type": "Plant",
+    "size": "Small",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Awakened Shrub",
+    "source": "Basic Rules",
+    "type": "Plant",
+    "size": "Small",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Cranium Rat",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Aberration",
+    "size": "Tiny",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Cikavak",
+    "source": "Tome of Beasts 1",
+    "type": "Fey",
+    "size": "Tiny",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Flumph",
+    "source": "Monster Manual",
+    "type": "Aberration",
+    "size": "Small",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Neogi Hatchling",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Aberration",
+    "size": "Tiny",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Boggle",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Fey",
+    "size": "Small",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Twig Blight",
+    "source": "Basic Rules",
+    "type": "Plant",
+    "size": "Small",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Wooden Donkey",
+    "source": "Waterdeep: Dungeon of the Mad Mage",
+    "type": "Construct",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Tribal Warrior Spore Servants",
+    "source": "Icewind Dale: Rime of the Frostmaiden",
+    "type": "Plant",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Sprite",
+    "source": "Basic Rules",
+    "type": "Fey",
+    "size": "Tiny",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Violet Fungus",
+    "source": "Basic Rules",
+    "type": "Plant",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Needle Blight",
+    "source": "Monster Manual",
+    "type": "Plant",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Smoke Mephit (Summoner Variant)",
+    "source": "Monster Manual",
+    "type": "Elemental",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Derro",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Aberration",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Oblex Spawn",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Ooze",
+    "size": "Tiny",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Star Spawn Grue",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Aberration",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Azza Gremlin",
+    "source": "Tome of Beasts 1",
+    "type": "Fey",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Clurichaun",
+    "source": "Tome of Beasts 1",
+    "type": "Fey",
+    "size": "Tiny",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Pseudodragon",
+    "source": "Basic Rules",
+    "type": "Dragon",
+    "size": "Tiny",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Pixie",
+    "source": "Monster Manual",
+    "type": "Fey",
+    "size": "Tiny",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Reduced-threat Gray Ooze",
+    "source": "Tales from the Yawning Portal",
+    "type": "Ooze",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Mud Mephit (Summoner Variant)",
+    "source": "Monster Manual",
+    "type": "Elemental",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Vegepygmy",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Plant",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Skeleton Key",
+    "source": "Tomb of Annihilation",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Dipsa",
+    "source": "Tome of Beasts 1",
+    "type": "Ooze",
+    "size": "Tiny",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Kalke",
+    "source": "Tome of Beasts 1",
+    "type": "Fiend",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Treacle",
+    "source": "Tome of Beasts 1",
+    "type": "Ooze",
+    "size": "Tiny",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Blink Dog",
+    "source": "Basic Rules",
+    "type": "Fey",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Skeleton",
+    "source": "Basic Rules",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Mud Mephit",
+    "source": "Monster Manual",
+    "type": "Elemental",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Smoke Mephit",
+    "source": "Monster Manual",
+    "type": "Elemental",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Pseudodragon (familiar variant)",
+    "source": "Monster Manual",
+    "type": "Dragon",
+    "size": "Tiny",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Jelayne",
+    "source": "Acquisitions Incorporated",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Gnoll Witherling",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Zombie",
+    "source": "Basic Rules",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Living Wick",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Clockwork Watchman",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Empty Cloak",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Swarm of Mechanical Spiders",
+    "source": "Waterdeep: Dragon Heist",
+    "type": "Construct",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Undead Cockatrice",
+    "source": "Acquisitions Incorporated",
+    "type": "Undead",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Skull Flier",
+    "source": "Storm Lord’s Wrath",
+    "type": "Construct",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Firenewt Warrior",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Elemental",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "https://www.dndbeyond.com/monsters/2560812-firenewt-warrior",
+    "imageUrl": "",
+    "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=133"
+  },
+  {
+    "name": "Clockwork Watchman",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Empty Cloak",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Library Automaton",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Bucca",
+    "source": "Tome of Beasts 1",
+    "type": "Fey",
+    "size": "Tiny",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Clockwork Beetle",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Tiny",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Library Automaton (Familiar Variant)",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Xanka",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Myconid Adult",
+    "source": "Monster Manual",
+    "type": "Plant",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Darkling",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Fey",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "https://www.dndbeyond.com/monsters/17231-darkling",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Sentient Gray Ooze",
+    "source": "Tales from the Yawning Portal",
+    "type": "Ooze",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ice Mephit",
+    "source": "Basic Rules",
+    "type": "Elemental",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Magma Mephit",
+    "source": "Basic Rules",
+    "type": "Elemental",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Gas Spore",
+    "source": "Monster Manual",
+    "type": "Plant",
+    "size": "Large",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Metal Wasp",
+    "source": "Waterdeep: Dungeon of the Mad Mage",
+    "type": "Construct",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Dust Mephit (Summoner Variant)",
+    "source": "Monster Manual",
+    "type": "Elemental",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Rum Gremlin",
+    "source": "Tome of Beasts 1",
+    "type": "Fey",
+    "size": "Tiny",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Dust Mephit",
+    "source": "Basic Rules",
+    "type": "Elemental",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Gray Ooze",
+    "source": "Basic Rules",
+    "type": "Ooze",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Shadow",
+    "source": "Basic Rules",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Shadowy Duplicate",
+    "source": "Waterdeep: Dungeon of the Mad Mage",
+    "type": "Construct",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ice Mephit (Summoner Variant)",
+    "source": "Monster Manual",
+    "type": "Elemental",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Gazer (Familiar Variant)",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Aberration",
+    "size": "Tiny",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Gazer",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Aberration",
+    "size": "Tiny",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Satyr",
+    "source": "Basic Rules",
+    "type": "Fey",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Psychic Gray Ooze",
+    "source": "Monster Manual",
+    "type": "Ooze",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Magma Mephit (Summoner Variant)",
+    "source": "Monster Manual",
+    "type": "Elemental",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Satyr (Variant)",
+    "source": "Monster Manual",
+    "type": "Fey",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Reflections",
+    "source": "Tasha’s Cauldron of Everything",
+    "type": "Fey",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Beggar Ghoul",
+    "source": "Tome of Beasts 1",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Fraughashar",
+    "source": "Tome of Beasts 1",
+    "type": "Fey",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Lantern Dragonette",
+    "source": "Tome of Beasts 1",
+    "type": "Dragon",
+    "size": "Tiny",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Miremal",
+    "source": "Tome of Beasts 1",
+    "type": "Fey",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Skin Bat",
+    "source": "Tome of Beasts 1",
+    "type": "Undead",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Broodiken",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Child of the Briar",
+    "source": "Tome of Beasts 1",
+    "type": "Plant",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Gerridae",
+    "source": "Tome of Beasts 1",
+    "type": "Fey",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Firenewt Warlock of Imix",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Elemental",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Maw Demon",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Fiend",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Nilbog",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Fey",
+    "size": "Small",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Thorny Vegepygmy",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Plant",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Vargouille",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Fiend",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Broodiken",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Child of the Briar",
+    "source": "Tome of Beasts 1",
+    "type": "Plant",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Gerridae",
+    "source": "Tome of Beasts 1",
+    "type": "Fey",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Wind Dragon Wyrmling",
+    "source": "Tome of Beasts 1",
+    "type": "Dragon",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Snow Maiden",
+    "source": "Curse of Strahd",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Snow Maiden",
+    "source": "Curse of Strahd",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Strider",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Elemental",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Lacedon",
+    "source": "Tales from the Yawning Portal",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Choker",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Aberration",
+    "size": "Small",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Stone Cursed",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Construct",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Alehouse Drake",
+    "source": "Tome of Beasts 1",
+    "type": "Dragon",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Chernomoi",
+    "source": "Tome of Beasts 1",
+    "type": "Fey",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Clockwork Weaving Spider",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Crimson Drake (Familiar Variant)",
+    "source": "Tome of Beasts 1",
+    "type": "Dragon",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Specter",
+    "source": "Basic Rules",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Clockwork Weaving Spider",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Crimson Drake (Familiar Variant)",
+    "source": "Tome of Beasts 1",
+    "type": "Dragon",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ghoul",
+    "source": "Basic Rules",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Kobold Dragonshield",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Dragon",
+    "size": "Small",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Crimson Drake",
+    "source": "Tome of Beasts 1",
+    "type": "Dragon",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Nihilethic Zombie",
+    "source": "Tome of Beasts 1",
+    "type": "Undead",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Rime Worm Grub",
+    "source": "Tome of Beasts 1",
+    "type": "Elemental",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Dryad",
+    "source": "Basic Rules",
+    "type": "Fey",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Faerie Dragon (Younger)",
+    "source": "Monster Manual",
+    "type": "Dragon",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Clockwork Bronze Scout",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Construct",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Boloti",
+    "source": "Tome of Beasts 1",
+    "type": "Fey",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Emerald Eye",
+    "source": "Tome of Beasts 1",
+    "type": "Construct",
+    "size": "Tiny",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  }
+]

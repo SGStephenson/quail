@@ -1,0 +1,982 @@
+[
+  {
+    "name": "Cat",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Fire Beetle",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Small",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Hyena",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "0",
+    "url": "https://www.dndbeyond.com/monsters/16930-hyena",
+    "imageUrl": "",
+    "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=459"
+  },
+  {
+    "name": "Scorpion",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Badger",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Onyx",
+    "source": "Acquisitions Incorporated",
+    "type": "Beast",
+    "size": "Huge",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Pig",
+    "source": "Storm King's Thunder",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Baboon",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Small",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Deer",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Goat",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Sheep",
+    "source": "Storm King's Thunder",
+    "type": "Beast",
+    "size": "Small",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Eagle",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Small",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Jackal",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Small",
+    "cr": "0",
+    "url": "https://www.dndbeyond.com/monsters/16936-jackal",
+    "imageUrl": "",
+    "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=460"
+  },
+  {
+    "name": "Owl",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Rat",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Raven",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Vulture",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Camel",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Flying Snake",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Mastiff",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Mule",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Stirge",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Diseased Giant Rat",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Small",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Weasel",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Poisonous Snake",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ligotti",
+    "source": "Acquisitions Incorporated",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Blood Hawk",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Small",
+    "cr": "1/8",
+    "url": "https://www.dndbeyond.com/monsters/16810-blood-hawk",
+    "imageUrl": "",
+    "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=408"
+  },
+  {
+    "name": "Giant Rat",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Small",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Pony",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Owl",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Swamp Adder",
+    "source": "Tome of Beasts 1",
+    "type": "Beast",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Constrictor Snake",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Owl",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Lizard (variant)",
+    "source": "Monster Manual",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Deep Rothé",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ox",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Velociraptor",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Elk",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Panther",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Riding Horse",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "https://www.dndbeyond.com/monsters/16997-riding-horse",
+    "imageUrl": "",
+    "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=481"
+  },
+  {
+    "name": "Red-Banded Line Spider",
+    "source": "Tome of Beasts 1",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Axe Beak",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Draft Horse",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Bat",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Wolf Spider",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=455"
+  },
+  {
+    "name": "Swarm of Bats",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Wolf",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Guthash",
+    "source": "Tales from the Yawning Portal",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Dimetrodon",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Boar",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Badger",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Centipede",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Poisonous Snake",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Swarm of Rats",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Swarm of Ravens",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Cave Badger",
+    "source": "Out of the Abyss",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Swarm of Rats (Diseased Variant)",
+    "source": "Tales from the Yawning Portal",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Frog",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Lizard",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Pteranodon",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Riding Lizard",
+    "source": "Out of the Abyss",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Hadrosaurus",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Suturefly",
+    "source": "Tome of Beasts 1",
+    "type": "Beast",
+    "size": "Tiny",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "War Ostrich",
+    "source": "Tome of Beasts 1",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ape",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Swarm of Insects",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Warhorse",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Swarm of Insects (Wasps)",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Swarm of Rot Grubs",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Fiendish Giant Spider",
+    "source": "Out of the Abyss",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Crocodile",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Wasp",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Black Bear",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Swarm of Insects (Beetles)",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Swarm of Insects (Centipedes)",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "The Forgotten Behtu",
+    "source": "Tome of Beasts 1",
+    "type": "Beast",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Goat",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Swarm of Insects (Spiders)",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Vulture",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Spider King",
+    "source": "Out of the Abyss",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Nyxborn lynx",
+    "source": "Mythic Odysseys of Theros",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Glass Gator",
+    "source": "Tome of Beasts 1",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Eagle",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Tiger",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Rocktopus",
+    "source": "Out of the Abyss",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Dogmole",
+    "source": "Tome of Beasts 1",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Brown Bear",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Dire Wolf",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Lion",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Hyena",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Toad",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Sangzor",
+    "source": "Curse of Strahd",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ice Spider",
+    "source": "Storm King's Thunder",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Old Croaker",
+    "source": "Explorer's Guide to Wildemount",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Swan",
+    "source": "The Wild Beyond the Witchlight",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Giant Spider",
+    "source": "Basic Rules",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Deinonychus",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Beast",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Zanskaran Viper",
+    "source": "Tome of Beasts 1",
+    "type": "Beast",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  }
+]

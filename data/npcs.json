@@ -1,0 +1,1112 @@
+[
+  {
+    "name": "Commoner",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Magister Umbero Zastro",
+    "source": "Waterdeep: Dragon Heist",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Milivoj",
+    "source": "Curse of Strahd",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Walking Corpse",
+    "source": "Curse of Strahd",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Halfling Musician",
+    "source": "Waterdeep: Dungeon of the Mad Mage",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Talisolvanar “Tally” Fellbranch",
+    "source": "Waterdeep: Dragon Heist",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Floon Blagmaar",
+    "source": "Waterdeep: Dragon Heist",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Thorvin Twinbeard",
+    "source": "Waterdeep: Dragon Heist",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Kobold Commoner",
+    "source": "Tales from the Yawning Portal",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Wiri Fleagol",
+    "source": "Storm King's Thunder",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Goblin Commoner",
+    "source": "Tales from the Yawning Portal",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "0",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Guard",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Noble",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Seodra",
+    "source": "Infernal Machine Rebuild",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Raegrin Mau",
+    "source": "Explorer's Guide to Wildemount",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Varnyr",
+    "source": "Candlekeep Mysteries",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Tribal Warrior",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Orok",
+    "source": "Storm King's Thunder",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/8",
+    "url": "https://www.dndbeyond.com/monsters/299121-orok",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Rhundorth",
+    "source": "Princes of the Apocalypse",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Reghed Warrior",
+    "source": "Icewind Dale: Rime of the Frostmaiden",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Monastery of the Distressed Body, Monk",
+    "source": "Lost Laboratory of Kwalish",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Orond Gralhund",
+    "source": "Waterdeep: Dragon Heist",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Yalah Gralhund",
+    "source": "Waterdeep: Dragon Heist",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Aarakocra Simulacrum",
+    "source": "Storm King's Thunder",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Tiefling Muralist",
+    "source": "Infernal Machine Rebuild",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Bandit",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Cultist",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ott Steeltoes",
+    "source": "Waterdeep: Dragon Heist",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Kobold Underling",
+    "source": "Explorer's Guide to Wildemount",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Kobold",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Felbarren Dwarf",
+    "source": "Storm King's Thunder",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Sauriv",
+    "source": "Ghosts of Saltmarsh",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Dwarven Worker",
+    "source": "Infernal Machine Rebuild",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/8",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Grimlock",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Troglodyte",
+    "source": "Monster Manual",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Grung",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Erina",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Lemurfolk",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ramag",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Armored Troglodyte",
+    "source": "Waterdeep: Dungeon of the Mad Mage",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Spiderbait",
+    "source": "Out of the Abyss",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Hester Barch",
+    "source": "Waterdeep: Dragon Heist",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Erky Timbers",
+    "source": "Tales from the Yawning Portal",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Apprentice Wizard",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Erina",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Lemurfolk",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ramag",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Acolyte",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Kuo-toa",
+    "source": "Monster Manual",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Grenl",
+    "source": "Tales from the Yawning Portal",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Devil Dog",
+    "source": "Acquisitions Incorporated",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Shadow Fey",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Aarakocra",
+    "source": "Monster Manual",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Drow",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Kenku",
+    "source": "Monster Manual",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Gildha Duhn",
+    "source": "Acquisitions Incorporated",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Kobold Inventor",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Dust Goblin",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Yuk Yuk",
+    "source": "Out of the Abyss",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "https://www.dndbeyond.com/monsters/273508-yuk-yuk",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Hanne Hallen",
+    "source": "Out of the Abyss",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Lizardfolk Commoner",
+    "source": "Ghosts of Saltmarsh",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ratfolk",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Roachling Skirmisher",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/4",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Nkosi",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Lizardfolk",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Hobgoblin",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Thug",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Jackalwere",
+    "source": "Monster Manual",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Yantha Coaxrock",
+    "source": "Out of the Abyss",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Grunka",
+    "source": "Acquisitions Incorporated",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Scout",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "https://www.dndbeyond.com/monsters/17007-scout",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Deep Gnome (Svirfneblin)",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Wood Elf Scout",
+    "source": "Storm King's Thunder",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ishel",
+    "source": "Explorer's Guide to Wildemount",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Scorpion Cultist",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Tosculi Drone",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Copper Stormforge",
+    "source": "Waterdeep: Dungeon of the Mad Mage",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Gash the Gnoll",
+    "source": "Out of the Abyss",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Noska Ur’gray",
+    "source": "Waterdeep: Dragon Heist",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Yorn the Terror",
+    "source": "Waterdeep: Dragon Heist",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ravenfolk Scout",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Gnoll",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Orc",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Merfolk Scout",
+    "source": "Ghosts of Saltmarsh",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Dire Corby",
+    "source": "Mordenkainen's Fiendish Folio Volume 1",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Burrowling",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1/2",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Bugbear",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Salida",
+    "source": "Tomb of Annihilation",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "https://www.dndbeyond.com/monsters/285456-salida",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Durnn",
+    "source": "Tales from the Yawning Portal",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Thri-kreen (weapons variant)",
+    "source": "Monster Manual",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Kobold Scale Sorcerer",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Spy",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Goblin Boss",
+    "source": "Monster Manual",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Grung Wildling",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Erina Defender",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Khalessa Draga",
+    "source": "Out of the Abyss",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Deformed Duergar",
+    "source": "Waterdeep: Dungeon of the Mad Mage",
+    "type": "Humanoid",
+    "size": "Large",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Two Dry Cloaks",
+    "source": "Acquisitions Incorporated",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Ratfolk Rogue",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Duergar",
+    "source": "Basic Rules",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Yuan-ti Pureblood",
+    "source": "Monster Manual",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Thri-kreen",
+    "source": "Monster Manual",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Duergar Alchemist",
+    "source": "Out of the Abyss",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Lizardfolk Scaleshield",
+    "source": "Ghosts of Saltmarsh",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Moss Lurker",
+    "source": "Tome of Beasts 1",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Kuo-toa Whip",
+    "source": "Monster Manual",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Samara Strongbones",
+    "source": "Waterdeep: Dragon Heist",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Orvex Ocrammas",
+    "source": "Tomb of Annihilation",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Thri-kreen (psionics variant)",
+    "source": "Monster Manual",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Corrin Delmaco",
+    "source": "Eberron: Rising from the Last War",
+    "type": "Humanoid",
+    "size": "Small",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  },
+  {
+    "name": "Duergar Soulblade",
+    "source": "Mordenkainen Presents: Monsters of the Multiverse",
+    "type": "Humanoid",
+    "size": "Medium",
+    "cr": "1",
+    "url": "",
+    "imageUrl": "",
+    "harvestUrl": ""
+  }
+]
