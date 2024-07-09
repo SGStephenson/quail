@@ -1,0 +1,112 @@
+Soren
+Medium humanoid (human), neutral
+------------------------------------------------------------------------------------------------------------------------
+Armor Class 18 (wis, con)
+Hit Points  15 (1d12 + 3)
+Speed       30 ft.
+------------------------------------------------------------------------------------------------------------------------
+Ability     STR    DEX    CON    INT    WIS    CHA
+Score       13     16     16     18     15     13
+Modifier    +1     +3     +3     +4     +2     +1
+Save        +3     +5     +5     +6     +2     +1
+------------------------------------------------------------------------------------------------------------------------
+Str +3 - Athletics
+Dex +5 - Acrobatics, sleight of hand; thieves' tools
+    +7 - Stealth
+Int +6 - History, Investigation, Nature
+    +8 - Arcana
+Wis +4 - Animal handling, insight, perception, religion; cook's utensils
+    +6 - Survival
+Cha +3 - Intimidation
++4
+Senses      passive Perception 10
+Languages   Common, Draconic, Dwarven, Elven, English, Goblin, Orc, Thieves' cant, Undercommon
+------------------------------------------------------------------------------------------------------------------------
+Favored by the gods. 1 / short. 2d4 added to failed save or missed attack
+Favored foe. 2 / long rest. 1 min (concentration). The first time per turn you damage the marked creature +1d4 damage
+Focus. 2 / long rest. 1 min. advantage on dex checks and saves, +2 dex based damage, resist blugeoning, piercing, slashing
+Magical Tinkering. 4
+Martial arts. 1d4
+Mount up.
+Precise strike. 2 / long rest. advantage on attack roll, +1d8 damage
+Sneak Attack. 1d6
+Two-weapon fighting.
+------------------------------------------------------------------------------------------------------------------------
+Actions |
+---------
+Dagger +5 to hit, reach 5 ft., one target. Hit: 1d4 + 3 piercing damage.
+Light crossbow +5 to hit, range 80/320 ft., one target. Hit: 1d8 + 3 piercing damage.
+Longbow. +5 to hit, range 150/600 ft., one target. Hit: 1d8 + 3 piercing damage.
+Shortbow +5 to hit, range 80/320 ft., one target. Hit: 1d6 + 3 piercing damage.
+Shortsword +5 to hit, reach 5 ft., one target. Hit: 1d6 + 3 piercing damage.
+Unarmed strike +3 to hit, reach 5 ft., one target. Hit: 1 bludgeoning damage.
+------------------------------------------------------------------------------------------------------------------------
+Bonus actions |
+---------------
+Second Wind. 1 / long rest. 1d10 + 1 hp
+------------------------------------------------------------------------------------------------------------------------
+Reactions |
+-----------
+
+------------------------------------------------------------------------------------------------------------------------
+Spellcasting |
+--------------
+Innate (To hit +6, DC 14, no material components)
+
+1 / long rest
+-------------
+1st. cure wounds, feather fall, longstrider
+
+Spellcasting. (To hit +6, DC 14, * = known spell)
+
+Cantrips. control flames, guidance, gust, mage hand, mold earth, mending, spare the dying, true strike
+1st (2 slots). alarm, cure wounds*, detect magic, feather fall*, healing word*, identify, longstrider*, mage armor*,
+               protection from evil and good*, purify food and drink, shield*, silvery barbs*
+------------------------------------------------------------------------------------------------------------------------
+Inventory |
+-----------
+dagger 2, shortsword, shortbow
+
+Backpack
+bottle of blue ink, ink pen, common clothes
+
+Pouch
+10 gp
+
+Quiver
+20 arrows
+------------------------------------------------------------------------------------------------------------------------
+Classes     XP: 175
+
+Artificer 1     0 / 300
+Barbarian 1     0 / 300
+Fighter 1       0 / 300
+Monk 1          0 / 300
+Ranger 1        0 / 300
+Rogue 1         0 / 300
+Sorcerer 0      0 / 150
+Wizard 0        0 / 0
+
+Armor       All armor, shields
+Background  Knight of Solamnia (squire), Mage of High Sorcery (apprentice red)
+Expertise   arcana, survival
+Profs
+Saves       dexterity, intelligence
+Skills      arcana, athletics, history, survival
+Tools       cooks utensils, thieves tools
+Weapons     simple weapons, martial weapons
+------------------------------------------------------------------------------------------------------------------------
+Oriboros    AP: 0
+------------------------------------------------------------------------------------------------------------------------
+Feats
+Artificer Initiate. Cure wounds and guidance
+Initiate of High Sorcery
+Squire of Solamnia
+    Mount Up. Mounting or dismounting costs you only 5 feet of movement.
+    Precise Strike. Once per turn, when you make a weapon attack roll against a
+                    creature, you can cause the attack roll to have advantage. If
+                    the attack hits, you roll a d8 and add the number rolled as a
+                    bonus to the attack's damage roll. You can use this benefit a
+                    number of times equal to your proficiency bonus, but a use is
+                    expended only if the attack hits. You regain all expended uses
+                    when you finish a long rest.

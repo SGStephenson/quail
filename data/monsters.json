@@ -155,9 +155,9 @@
     "type": "Plant",
     "size": "Medium",
     "cr": "1/4",
-    "url": "",
+    "url": "https://www.dndbeyond.com/monsters/17215-needle-blight",
     "imageUrl": "",
-    "harvestUrl": ""
+    "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=25"
   },
   {
     "name": "Smoke Mephit (Summoner Variant)",
@@ -295,7 +295,7 @@
     "type": "Fiend",
     "size": "Small",
     "cr": "1/4",
-    "url": "",
+    "url": "https://www.dndbeyond.com/monsters/4340102-kalke",
     "imageUrl": "",
     "harvestUrl": ""
   },

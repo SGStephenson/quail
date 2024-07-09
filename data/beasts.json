@@ -35,9 +35,9 @@
     "type": "Beast",
     "size": "Tiny",
     "cr": "0",
-    "url": "",
+    "url": "https://www.dndbeyond.com/monsters/17006-scorpion",
     "imageUrl": "",
-    "harvestUrl": ""
+    "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=483"
   },
   {
     "name": "Badger",
@@ -345,9 +345,9 @@
     "type": "Beast",
     "size": "Medium",
     "cr": "1/4",
-    "url": "",
+    "url": "https://www.dndbeyond.com/encounter-builder",
     "imageUrl": "",
-    "harvestUrl": ""
+    "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=617"
   },
   {
     "name": "Ox",
@@ -365,9 +365,9 @@
     "type": "Beast",
     "size": "Tiny",
     "cr": "1/4",
-    "url": "",
+    "url": "https://www.dndbeyond.com/monsters/2560950-velociraptor",
     "imageUrl": "",
-    "harvestUrl": ""
+    "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=104"
   },
   {
     "name": "Elk",
@@ -445,7 +445,7 @@
     "type": "Beast",
     "size": "Medium",
     "cr": "1/4",
-    "url": "",
+    "url": "https://www.dndbeyond.com/monsters/16900-giant-wolf-spider",
     "imageUrl": "",
     "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=455"
   },
@@ -465,9 +465,9 @@
     "type": "Beast",
     "size": "Medium",
     "cr": "1/4",
-    "url": "",
+    "url": "https://www.dndbeyond.com/monsters/17062-wolf",
     "imageUrl": "",
-    "harvestUrl": ""
+    "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=496"
   },
   {
     "name": "Guthash",
@@ -715,9 +715,9 @@
     "type": "Beast",
     "size": "Medium",
     "cr": "1/2",
-    "url": "",
+    "url": "https://www.dndbeyond.com/monsters/16898-giant-wasp",
     "imageUrl": "",
-    "harvestUrl": ""
+    "harvestUrl": "https://www.thievesguild.cc/harvest/creature.php?id=453"
   },
   {
     "name": "Black Bear",
@@ -945,7 +945,7 @@
     "type": "Beast",
     "size": "Large",
     "cr": "1",
-    "url": "",
+    "url": "https://www.dndbeyond.com/monsters/1979783-giant-swan",
     "imageUrl": "",
     "harvestUrl": ""
   },
