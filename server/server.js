@@ -6,7 +6,9 @@ const PORT = process.env.PORT || 8000;
 const { DataRouter } = require('./routes');
 
 app.get('/', (req, res) => {
-    res.send('Hello World');
+    console.log(parseInt(null));
+    const badStuff = "data:text/html,<script>alert('hi');</script>";
+    res.send(`<a href="${badStuff}">This a text</a>`);
 });
 
 app.use("/data", DataRouter);
